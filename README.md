@@ -45,4 +45,12 @@ __Melhoria 1__, _melhoria 2_
 
 Contribuidor principal: https://github.com/theyloralbuquerque
 
-[![Logo do Spring Boot](https://miro.medium.com/v2/resize:fit:720/format:webp/1*-uckV8DOh3l0bCvqZ73zYg.png)](https://miro.medium.com/v2/resize:fit:720/format:webp/1*-uckV8DOh3l0bCvqZ73zYg.png)
+[![Logo do Spring Boot](https://miro.medium.com/v2/resize:fit:720/format:webp/1*-uckV8DOh3l0bCvqZ73zYg.png)](https://github.com/theyloralbuquerque)
+
+## Código da função soma
+
+```java
+public int soma(int a, int b){
+    return a + b;
+}
+```
